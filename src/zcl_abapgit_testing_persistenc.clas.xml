@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_ABAPGIT_TESTING_PERSISTENC</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>E</LANGU>
+    <DESCRIPT>abapGit Test Persistent Class</DESCRIPT>
+    <CATEGORY>10</CATEGORY>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ABAPGIT_TESTING_PERSISTENC</CLSNAME>
+     <CMPNAME>GET_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Reads Attribute NAME</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ABAPGIT_TESTING_PERSISTENC</CLSNAME>
+     <CMPNAME>GET_XUBNAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Reads Attribute XUBNAME</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ABAPGIT_TESTING_PERSISTENC</CLSNAME>
+     <CMPNAME>NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>User Name in User Master Record</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ABAPGIT_TESTING_PERSISTENC</CLSNAME>
+     <CMPNAME>SET_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Sets Attribute NAME</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ABAPGIT_TESTING_PERSISTENC</CLSNAME>
+     <CMPNAME>XUBNAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>User Name in User Master Record</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
