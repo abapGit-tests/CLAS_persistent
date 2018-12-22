@@ -8,6 +8,6 @@
     "url": "https://github.com/abapGit-tests/CLAS_persistent.git"
   },
   "devDependencies": {
-    "abaplint": "^1.5.2"
+    "abaplint": "^1.5.4"
   }
 }
